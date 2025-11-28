@@ -7,10 +7,10 @@
       "Properties": {
         "KeyName": "polystudent-keypair",
         "InstanceType": "t3.micro",
-        "ImageId": "ami-01cba724358721b21",
+        "ImageId": "ami-0c02fb55956c7d316",
         "AvailabilityZone": "us-east-1a",
-        "SecurityGroupIds": ["sg-0371bf8fa65fb3297"],
-        "SubnetId": "subnet-094a90344acbb6805",
+        "SecurityGroupIds": ["sg-007b137d7fbd70e03"],
+        "SubnetId": "subnet-02d139640c465f09c",
         "BlockDeviceMappings": [
           {
             "DeviceName": "/dev/sda1",
@@ -24,4 +24,3 @@
     }
   }
 }
-
