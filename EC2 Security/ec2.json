@@ -8,7 +8,7 @@
         "KeyName": "polystudent-keypair",
         "InstanceType": "t3.micro",
         "ImageId": "ami-01cba724358721b21",
-        "AvailabilityZone": "ca-central-1a",
+        "AvailabilityZone": "us-east-1a",
         "SecurityGroupIds": ["sg-0371bf8fa65fb3297"],
         "SubnetId": "subnet-094a90344acbb6805",
         "BlockDeviceMappings": [
@@ -24,3 +24,4 @@
     }
   }
 }
+
