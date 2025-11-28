@@ -12,7 +12,6 @@ template.set_description("VPC créé en utilisant Troposhere pour la Q1")
 # ----------------------------------------------------------------------
 # ------- 1. Création du VPC (Figure 1) --------------------------------
 # ----------------------------------------------------------------------
-
 vpc = template.add_resource(
     ec2.VPC(
         "VPCQ1TP4",
@@ -275,3 +274,4 @@ with open("vpc_Q1.yaml", "w") as file:
     file.write(template.to_yaml())
 
 print("Le fichier vpc_Q1.yaml a bien été généré!")
+
