@@ -13,7 +13,6 @@
         ├── Q2/              # dossier contenant les scripts demandés pour la question 2
         ├── Q3/              # dossier contenant les scripts demandés pour la question 3
         ├── Q4/              # dossier contenant les scripts demandés pour la question 4
-    ├── IaC Code Security/   # dossier de la section 4 - IaC Code Security
     ├── S3 Security/         # dossier de la section 3 - S3 Security
     ├── VPC Security/        # dossier de la section 1 - VPC Security
     ├── README.md            # Documentation du TP4
