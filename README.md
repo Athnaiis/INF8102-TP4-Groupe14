@@ -17,7 +17,6 @@
         ├── Q4/                # dossier contenant les scripts demandés pour la question 4
             ├── 4.1./          # dossier contenant le(s) script(s) python demandé(s) pour la question 4.1
             ├── 4.2/           # dossier contenant le(s) script(s) python demandé(s) pour la question 4.2
-            ├── 4.3/           # dossier contenant le(s) script(s) python demandé(s) pour la question 4.3
     ├── S3 Security/           # dossier de la section 3 - S3 Security
     ├── VPC Security/          # dossier de la section 1 - VPC Security
     ├── README.md              # Documentation de ce TP4
@@ -61,11 +60,6 @@ Ce script génère un fichier JSON CloudFormation (**vpc-Q3_2.yaml**) que vous p
 python3 Q3_3.py
 ```
 Ce script génère un fichier JSON CloudFormation (**Q3_3.json**) que vous pouvez ensuite importer dans AWS CloudFormation via l’interface web.
-
-
-
-## Éxécution de la question 4 de l'exercice 
-xxxx
 
 
 
