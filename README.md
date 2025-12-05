@@ -15,8 +15,8 @@
             ├── Question 3.2/  # dossier contenant le script python demandé pour la question 3.2
             ├── Question 3.3/  # dossier contenant le script python demandé pour la question 3.3
         ├── Q4/                # dossier contenant les scripts demandés pour la question 4
-            ├── 4.1./          # dossier contenant le(s) script(s) python demandé(s) pour la question 4.1
-            ├── 4.2/           # dossier contenant le(s) script(s) python demandé(s) pour la question 4.2
+            ├── 4.1./          # dossier contenant le(s) fichier(s) demandé(s) pour la question 4.1
+            ├── 4.2/           # dossier contenant le(s) fichier(s) demandé(s) pour la question 4.2
     ├── S3 Security/           # dossier de la section 3 - S3 Security
     ├── VPC Security/          # dossier de la section 1 - VPC Security
     ├── README.md              # Documentation de ce TP4
